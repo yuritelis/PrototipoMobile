@@ -9,5 +9,5 @@ Este projeto é um protótipo de um aplicativo mobile informativo sobre o jogo T
 ## Wiki do projeto
 <ul>
   <li> <a href="https://github.com/yuritelis/PrototipoMobile/wiki/O-que-é-Tapper%3F"> O que é Tapper? </a> </li>
-  <li> <a href="https://github.com/yuritelis/PrototipoMobile/wiki/Protótipo-Tapper"> </li>
+  <li> <a href="https://github.com/yuritelis/PrototipoMobile/wiki/Protótipo-Tapper"> Protótipo Tapper </li>
 </ul>
